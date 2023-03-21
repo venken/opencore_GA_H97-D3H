@@ -17,6 +17,7 @@ python3 macrecovery.py -b Mac-00BE6ED71E35EB86 -m 00000000000000000 download
 EFI介绍：
 进入菜单选择需要按空格 出现mac恢复安装菜单栏
 取消隐藏安装菜单需要调整plist文件： Misc 》 Hideauxiliary 》false
+
 bios设置如下
 ![微信图片_20230321214317](https://user-images.githubusercontent.com/12839049/226625606-4251762c-0458-4cd4-80ca-7fdc58e71b3e.jpg)
 ![2](https://user-images.githubusercontent.com/12839049/226627145-a536a1a2-2898-4151-b6ab-35a6e61ece81.jpg)
